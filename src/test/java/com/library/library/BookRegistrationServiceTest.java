@@ -8,8 +8,10 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import net.javaguides.springboot.model.Book;
-import net.javaguides.springboot.service.BookRegistrationService;
+import com.library.library.model.Book;
+import com.library.library.service.BookRegistrationService;
+
+
 
 @SpringBootTest
 public class BookRegistrationServiceTest {
