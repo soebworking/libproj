@@ -22,8 +22,6 @@ public class BookRegistrationDto {
 	
 	
 	
-	
-	
 	public String getBookName() {
 		return bookName;
 	}
